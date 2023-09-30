@@ -1,2 +1,1 @@
-# codewars
-My codewars solutions
+#Competitive Programming
